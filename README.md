@@ -1,6 +1,6 @@
 # Websockets and Webhooks in Python
 
-Here you can find some code snippets of my presentation about websockets and webhooks in Python.
+Snippets of my presentation about websockets and webhooks in Python.
 
 `Tested with Python 3.8`.
 
@@ -16,6 +16,7 @@ uvicorn main:app --reload
 ```
 # to trigger the webhook
 curl localhost:8000/trigger
+```
 
 ```
 # to launch a local web server to serve index.html
